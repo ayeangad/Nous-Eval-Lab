@@ -1,0 +1,1 @@
+{"run_id": "run_20260916T055906214203Z_s42_d55cb72c", "seed": 42, "task_id": "clamp_bounds_001", "passed": false, "f2p_passed": 1, "f2p_total": 3, "p2p_passed": 5, "p2p_total": 5, "reason": "assert_failed test_0: ", "capability": ["instruction_following", "edge_case_reasoning"], "difficulty": "medium", "variants": ["happy_path", "underspecified", "edge", "adversarial"]}
