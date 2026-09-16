@@ -1,0 +1,8 @@
+python: Python 3.12.3
+uv: uv 0.12.1 (x86_64-unknown-linux-gnu)
+docker: Docker version 29.1.3, build 29.1.3-0ubuntu3~24.04.2
+git_sha: fatal: ambiguous argument 'HEAD': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+HEAD
+uncommitted

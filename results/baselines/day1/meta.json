@@ -1,0 +1,7 @@
+{
+  "day": "day1",
+  "n_tasks": 1,
+  "gold_pass_rate": 1.0,
+  "buggy_pass_rate": 0.0,
+  "observation": "buggy passes P2P but fails F2P: P2P-only measurement would miss the capability gap"
+}

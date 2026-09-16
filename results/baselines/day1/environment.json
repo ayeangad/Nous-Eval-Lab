@@ -1,0 +1,7 @@
+{
+  "python": "Python 3.12.3",
+  "uv": "uv 0.12.1",
+  "docker": "Docker version 29.1.3",
+  "seed": 42,
+  "note": "git SHA added post-commit"
+}
