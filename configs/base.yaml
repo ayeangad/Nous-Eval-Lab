@@ -1,0 +1,13 @@
+seed: 42
+run_dir: results
+benchmark:
+  tasks_path: src/nous_eval_lab/benchmarks/swebench_informed/tasks.jsonl
+regression:
+  # Engineering alert thresholds, NOT statistical significance tests.
+  # min_sample_size scales with suite size; 5 suits the 8-task slice.
+  overall_drop_pp: 3.0
+  capability_drop_pp: 5.0
+  min_sample_size: 5
+judge:
+  backend: heuristic  # heuristic | api
+  default_version: heuristic_v1
