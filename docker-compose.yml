@@ -1,0 +1,6 @@
+services:
+  eval:
+    build: .
+    volumes:
+      - ./results:/app/results
+    command: ["nous-eval", "--candidate", "gold"]
